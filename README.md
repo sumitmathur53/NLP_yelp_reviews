@@ -4,3 +4,7 @@
 - **Number of 'stars' indicate the business rating given by a customer, ranging from 1 to 5**
 - **'Cool', 'Useful' and 'Funny' indicate the number of cool votes given by other Yelp Users**.
 
+## VISUALIZE DATASET
+
+![](visual_1.png)
+
