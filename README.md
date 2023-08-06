@@ -13,9 +13,9 @@
 
 ![](v2.png)
 
-- **from this distribution we can see the the average frequency of the length of the reviews given by any user**.
+- **average frequency of the length of the reviews given by any user**.
 
 ![](v3.png)
 
-- **from the above distribution we can see that there are mostly 4 and 5 stars reviews compare to the others**
+- **there are mostly 4 and 5 stars reviews compare to the others**
 
